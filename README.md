@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Silver-Swan
-- 👀 I’m interested in building my Python skills.
-- 🌱 I’m currently learning how to code in Python
+- 👋 Hi, I’m Edward Kerr
+- 👀 I’m interested in using data analysis in the healthcare field.
+- 🌱 I’m currently looking for a job as a data analytics specifically in the healthcare field.
 - 💞️ I’m looking to collaborate on any projects that might make me a better coder.
 - 📫 How to reach me ...
 
