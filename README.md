@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Edward Kerr
+- 👋 Hello, My name is Edward Kerr
 - 👀 I’m interested in using data analysis in the healthcare field.
-- 🌱 I’m currently looking for a job as a data analytics specifically in the healthcare field.
-- 💞️ I’m looking to get better at coding and programming.
-- 📫 The best way to get contact me at kerr.ed825@gmail.com
+- 🌱 While I'm looking for a full time position as a data analyst, I'll be continuing updating my GitHub.
+- 💞️ I understand that there is alway something to learn.
+- 📫 The best way to get contact me is at kerr.ed825@gmail.com
 
 <!---
 Silver-Swan/Silver-Swan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
